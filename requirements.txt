@@ -1,0 +1,7 @@
+nltk
+flask
+sklearn
+pandas
+numpy
+gunicorn
+wtforms
